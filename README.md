@@ -1,6 +1,8 @@
 # Todo
 
-**TODO: Add description**
+**TODO: One app todo list without database**
+
+[![Deps Status](https://beta.hexfaktor.org/badge/all/github/enieber/todo-elixir.svg)](https://beta.hexfaktor.org/github/enieber/todo-elixir)
 
 ## Installation
 
